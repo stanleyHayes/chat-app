@@ -20,7 +20,7 @@ const JoinPage = () => {
 
     const handleJoinClick = event => {
         event.preventDefault();
-        if(!name || !room){
+        if (!name || !room) {
             return;
         }
         history.push(`/chat?name=${name}&room=${room}`);
@@ -49,7 +49,9 @@ const JoinPage = () => {
                         onChange={handleRoomChange}
                     />
                 </div>
-                    <button  onClick={handleJoinClick} className="button mt-20" type="submit">Sign In</button>
+                <div>
+                    <button onClick={handleJoinClick} className="button mt-20" type="submit">Sign In</button>
+                </div>
             </div>
         </div>
     )

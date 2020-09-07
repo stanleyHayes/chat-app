@@ -33,4 +33,9 @@
     background-color: #2979ff;
     display: inline-block;
     border: none;
+    cursor: pointer;
+}
+
+.mt-20{
+    margin-top: 20px;
 }
