@@ -30,7 +30,6 @@ const JoinPage = () => {
         <div className="joinOuterContainer">
             <div className="joinInnerContainer">
                 <h1 className="heading">Join</h1>
-                <div>
                     <input
                         value={name}
                         placeholder="Name"
@@ -38,9 +37,6 @@ const JoinPage = () => {
                         type="text"
                         onChange={handleNameChange}
                     />
-                </div>
-
-                <div>
                     <input
                         value={room}
                         placeholder="Room"
@@ -48,10 +44,9 @@ const JoinPage = () => {
                         type="text"
                         onChange={handleRoomChange}
                     />
-                </div>
-                <div>
+                <span>
                     <button onClick={handleJoinClick} className="button mt-20" type="submit">Sign In</button>
-                </div>
+                </span>
             </div>
         </div>
     )

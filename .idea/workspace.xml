@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8c9a15-f849-4a9b-9971-a07c04ac019c" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/chat/chat-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chat/chat-page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/join/join-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/join/join-page.js" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/chat/chat-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/chat/chat-page.js" afterDir="false" />
+>>>>>>> 80caca59abdd1868e211e4eebf401f1625f32d7b
       <change beforePath="$PROJECT_DIR$/src/pages/join/join.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/join/join.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
@@ -19,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,7 +44,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+>>>>>>> 80caca59abdd1868e211e4eebf401f1625f32d7b
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,6 +61,12 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stanley Hayford\Desktop\projects\react\chat-app\src\pages\join" />
+      <recent name="C:\Users\Stanley Hayford\Desktop\projects\react\chat-app\src\pages\chat" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -61,7 +77,11 @@
       <scripts>
         <script value="start" />
       </scripts>
+<<<<<<< HEAD
       <node-interpreter value="$USER_HOME$/.nvm/versions/node/v14.2.0/bin/node" />
+=======
+      <node-interpreter value="project" />
+>>>>>>> 80caca59abdd1868e211e4eebf401f1625f32d7b
       <package-manager value="npm" />
       <envs />
       <method v="2" />
@@ -82,8 +102,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599502551088</updated>
+<<<<<<< HEAD
       <workItem from="1599502575817" duration="1981000" />
       <workItem from="1599505784322" duration="588000" />
+=======
+      <workItem from="1599502575817" duration="4565000" />
+>>>>>>> 80caca59abdd1868e211e4eebf401f1625f32d7b
     </task>
     <servers />
   </component>
@@ -91,13 +115,36 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="453" y="215" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599506009652">
       <screen x="72" y="37" width="1848" height="1043" />
     </state>
     <state x="453" y="215" width="1086" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.37.1848.1043@72.37.1848.1043" timestamp="1599506009652" />
+=======
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599506805243">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599506805243" />
+>>>>>>> 80caca59abdd1868e211e4eebf401f1625f32d7b
     <state x="462" y="108" key="FileChooserDialogImpl" timestamp="1599502699275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599502699275" />
+    <state width="1346" height="311" key="GridCell.Tab.0.bottom" timestamp="1599507914558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1346" height="311" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599507914558" />
+    <state width="1346" height="311" key="GridCell.Tab.0.center" timestamp="1599507914557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1346" height="311" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599507914557" />
+    <state width="1346" height="311" key="GridCell.Tab.0.left" timestamp="1599507914557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1346" height="311" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599507914557" />
+    <state width="1346" height="311" key="GridCell.Tab.0.right" timestamp="1599507914557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1346" height="311" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599507914557" />
   </component>
 </project>

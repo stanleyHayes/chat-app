@@ -1,4 +1,13 @@
-.joinOuterContainer{
+html, body {
+
+    font-family: 'Arvo', serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.joinOuterContainer {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -7,35 +16,54 @@
     background-color: #1a1a1d;
 }
 
-.joinInnerContainer{
-    width: 20%;
+.joinInnerContainer {
+    width: 30%;
 }
 
-.joinInput{
+.joinInput {
     border-radius: 0;
     padding: 15px 20px;
     width: 100%;
 }
 
-.heading{
+.heading {
     color: white;
     font-size: 2.5em;
     padding-bottom: 10px;
     border-bottom: 2px solid white;
 }
 
-.button{
-    color: white !important;
+.button {
+    color: white;
     text-transform: uppercase;
     text-decoration: none;
     width: 100%;
     padding: 20px;
     background-color: #2979ff;
     display: inline-block;
-    border: none;
+    border: 2px solid white;
+    border-radius: 0;
     cursor: pointer;
+    transition: all 500ms ease-in-out;
 }
 
-.mt-20{
+.button:hover {
+    background-color: #4987f5;
+    color: black;
+}
+
+.mt-20 {
     margin-top: 20px;
+}
+
+@media screen and (max-width: 500px) {
+    .joinInnerContainer {
+        width: 80%;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 960px) {
+    .joinInnerContainer {
+        width: 50%;
+    }
 }
