@@ -29,3 +29,7 @@
         width: 60%;
     }
 }
+
+.messages-container{
+    flex-grow: 1;
+}

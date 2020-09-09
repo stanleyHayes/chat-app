@@ -9,7 +9,7 @@ const Input = ({setMessage, message, sendMessage}) => {
                 value={message}
                 onChange={event => setMessage(event.target.value)}
                 type="text"
-                placeholder="Type a message"
+                placeholder="Type a message..."
                 className="input"
             />
 
